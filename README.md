@@ -1,4 +1,4 @@
-#Bambu Life Test
+# Bambu Life Test
 
 This is a boilerplate project using the following technologies:
 - [React](https://facebook.github.io/react/) and [React Router](https://reacttraining.com/react-router/) for the frontend
